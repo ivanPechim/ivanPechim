@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ivanPechim&show_icons=true&theme=dark"
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ivanPechim&show_icons=true" />
 </picture>
+-->
 <!--
 Card com linguagens mais utilizadas aqui
 -->
