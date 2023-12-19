@@ -1,4 +1,4 @@
-### Olá meu nome é Ivan, tenho 20 anos e sou analista de sistemas na TCS Industrial LTDA. Aonde trabalho com a linguagem JavaScript e com a framework Vue.js e a aplicação tem integração com os banco de dados: SQLServer e MongoDB.
+### Olá meu nome é Ivan, tenho 20 anos e sou analista de sistemas na TCS Industrial LTDA. Aonde dou manutenção numa aplicação de automação industrial, utilizando a linguagem JavaScript e os framework Vue.js e Node.js com integração ao banco de dados: SQLServer e MongoDB.
 
 <!--
 **ivanPechim/ivanPechim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
